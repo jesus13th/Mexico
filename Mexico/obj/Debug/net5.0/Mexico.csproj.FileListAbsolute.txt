@@ -1,0 +1,16 @@
+C:\Users\Dios\Documents\GitHub\HangMan\Mexico\bin\Debug\net5.0\Mexico.exe
+C:\Users\Dios\Documents\GitHub\HangMan\Mexico\bin\Debug\net5.0\Mexico.deps.json
+C:\Users\Dios\Documents\GitHub\HangMan\Mexico\bin\Debug\net5.0\Mexico.runtimeconfig.json
+C:\Users\Dios\Documents\GitHub\HangMan\Mexico\bin\Debug\net5.0\Mexico.runtimeconfig.dev.json
+C:\Users\Dios\Documents\GitHub\HangMan\Mexico\bin\Debug\net5.0\Mexico.dll
+C:\Users\Dios\Documents\GitHub\HangMan\Mexico\bin\Debug\net5.0\ref\Mexico.dll
+C:\Users\Dios\Documents\GitHub\HangMan\Mexico\bin\Debug\net5.0\Mexico.pdb
+C:\Users\Dios\Documents\GitHub\HangMan\Mexico\obj\Debug\net5.0\Mexico.csproj.AssemblyReference.cache
+C:\Users\Dios\Documents\GitHub\HangMan\Mexico\obj\Debug\net5.0\Mexico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dios\Documents\GitHub\HangMan\Mexico\obj\Debug\net5.0\Mexico.AssemblyInfoInputs.cache
+C:\Users\Dios\Documents\GitHub\HangMan\Mexico\obj\Debug\net5.0\Mexico.AssemblyInfo.cs
+C:\Users\Dios\Documents\GitHub\HangMan\Mexico\obj\Debug\net5.0\Mexico.csproj.CoreCompileInputs.cache
+C:\Users\Dios\Documents\GitHub\HangMan\Mexico\obj\Debug\net5.0\Mexico.dll
+C:\Users\Dios\Documents\GitHub\HangMan\Mexico\obj\Debug\net5.0\ref\Mexico.dll
+C:\Users\Dios\Documents\GitHub\HangMan\Mexico\obj\Debug\net5.0\Mexico.pdb
+C:\Users\Dios\Documents\GitHub\HangMan\Mexico\obj\Debug\net5.0\Mexico.genruntimeconfig.cache
